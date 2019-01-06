@@ -77,7 +77,7 @@ directory now::
 
 Finally, download and install the ``.vimrc`` configuration file::
 
-    wget -O ~/.vimrc https://dynamicshjc.case.edu/~vbox/biol300/_downloads/.vimrc
+    wget -O ~/.vimrc https://biol-300-wiki-docs.readthedocs.io/en/latest/_downloads/.vimrc
 
 If you are curious about the contents of ``.vimrc``, you can view it here:
 

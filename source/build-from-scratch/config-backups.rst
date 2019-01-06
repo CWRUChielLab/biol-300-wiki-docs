@@ -13,7 +13,7 @@ Configure Automatic Backup
 
 3.  Download and install the backup script::
 
-        sudo wget -O /usr/local/sbin/backup-wiki https://dynamicshjc.case.edu/~vbox/biol300/_downloads/backup-wiki
+        sudo wget -O /usr/local/sbin/backup-wiki https://biol-300-wiki-docs.readthedocs.io/en/latest/_downloads/backup-wiki
 
     Set the MySQL password inside the script::
 

@@ -50,7 +50,7 @@ Building from Last Year
 
 8.  If it is not already installed, download and install the wiki reset script::
 
-        sudo wget -O /usr/local/sbin/reset-wiki https://dynamicshjc.case.edu/~vbox/biol300/_downloads/reset-wiki
+        sudo wget -O /usr/local/sbin/reset-wiki https://biol-300-wiki-docs.readthedocs.io/en/latest/_downloads/reset-wiki
 
     Set the MySQL password inside the script::
 

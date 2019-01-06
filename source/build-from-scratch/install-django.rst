@@ -103,7 +103,7 @@ Install Django
 
 12. Download and install a custom Apache configuration file for Django::
 
-        sudo wget -O /etc/apache2/conf-available/django.conf https://dynamicshjc.case.edu/~vbox/biol300/_downloads/django.conf
+        sudo wget -O /etc/apache2/conf-available/django.conf https://biol-300-wiki-docs.readthedocs.io/en/latest/_downloads/django.conf
         sudo a2enconf django
         sudo apache2ctl restart
 

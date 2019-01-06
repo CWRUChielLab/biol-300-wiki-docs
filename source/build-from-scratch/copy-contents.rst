@@ -152,7 +152,7 @@ Copy Old Wiki Contents
     of images and files. This includes the wiki logo, favicon, and figures from
     benchmark exemplars::
 
-        wget -P ~ https://dynamicshjc.case.edu/~vbox/biol300/_downloads/BIOL-300-Files-to-Import.tar.bz2
+        wget -P ~ https://biol-300-wiki-docs.readthedocs.io/en/latest/_downloads/BIOL-300-Files-to-Import.tar.bz2
         tar -xjf ~/BIOL-300-Files-to-Import.tar.bz2 -C ~
         php /var/www/mediawiki/maintenance/importImages.php --user=Hjc ~/BIOL-300-Files-to-Import
         sudo apache2ctl restart
